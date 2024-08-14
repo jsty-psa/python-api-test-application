@@ -1,0 +1,64 @@
+Opening Remarks (Ms. Claire Casher Worldbank)
+    - ** Recap of Day 1
+    - Syllabus of Day 2
+        - Brainstorming and Group Session
+        - researhers presentations
+
+Building Evidence on NID (Thomas Escande (Analyst, World Bank DIME), Sylvan Herskowitz (Economist, World Bank DIME))
+    - What is impact and Impact Evaluation
+    - Importance of Impact Evaluation
+        - Avoid false conclusions
+        - Strong Evidence
+        - Improve credibility and independent studies
+        - Cost-Effectiveness
+    - What Impact Evaluation so special
+        - Differentiate Causality and Correlation that heppens at the same time
+    - Why M&E is not enough?
+        - M&E is extremely important. However, it doesn't show the impact based on the collected data.
+    - What Impact Evaluation tells you
+        - Short-term: Test/Improve implementation
+        - Long-term: to measure impact on outcomes.
+    - Impact Evaluation Theory
+        - compare a group of program beneficiaries
+        - comparison group with the same characteristics.
+        - comparison group that is eposed to the same trends and shocks over time.
+    - Randomization
+        - best method to create valid comparison group for impact evaluation if the sample is large enough.
+        - Randomization Process
+            - Generating sameple in represntative of the population.
+            - Creating a valid comparison group
+            - Measuring outcomes to estimate impact
+        - In Practice: Mutiple Methods
+            - Randomization interventions to improvie take-up or pilots linking to NID services.
+            - Stagger rollout by location and time.
+            - Questions like...
+                - NID authentication improve 4Ps delivery?
+                    - Intervention between the timeline
+                        - Baseline (new)
+                        - Midline (12 mo)
+                        - Endline (18 mo)
+    - Retroactive Evaluations
+        - impact after the program has been implemented, looking for valid comparison groups ex-post.
+    - Prospective Evaluations
+        - developed during program design and built into program implemnetation.
+    - Complementary Research
+        - "Gold Standard" to generate rigorous causal Evidence
+        - combination of different complementary approaches.
+            - Impact Evaluations
+            - Descriptive studies
+            - Mixed methods and qualitative approaches
+    - Impact Evaluation Examples
+        - ID and Social Welfare in India (Aadhaar System)
+            - Impacts of biometric smartcards on social welfare programs in Andhra Pradesh
+            - Impacts of Aadhaar on the Public Distribution SYstem in Jharkhand
+        - Fingerprinting for Loan Enforcement in Malawi
+        - Biometrics for beneficiaries of the BISP cash transfer program in Pakistan
+    - Early Piloting
+        - Learning early will have great impacts in ability to adjust and optimize programs.
+        - RCTs are the gold standard approach.
+
+Coffee Break (15 mins)
+
+Group Session based on sector
+
+Lunch Break

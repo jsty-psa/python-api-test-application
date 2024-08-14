@@ -1,0 +1,217 @@
+Opening Remarks (ANS Marela Lovely Andres)
+    - Impacts of National ID
+    - Forms of Identification
+    - Promotion of seamless delivery
+    - Reducing of corruption
+    - Enhancing administrative governance
+    - Strengthening financial instituttion
+    - Ease of doing business
+
+Opening Remarks (World Bank)
+    - Introduction to collaboration os PSA and World Bank
+    - Introduction to 3rd National ID Lab
+
+Introduction to Participants (Claire Casher World Bank)
+    Government Agencies
+        - PSA
+            - CRCSO
+            - ONS
+            - PRO
+        - DICT
+        - NEDA
+    Relying Parties
+        - Asia United Bank
+        - BPI
+        - CIC
+        - DOH
+        - DSWD
+        - GCash
+        - GSIS
+        - IDmeta
+        - Marilao Bulacan LGU
+        - Pag-Ibig
+        - Philippine Savings Bank
+        - Varyfy Global Corp
+    Philippine Researcher Institutes
+        - Ateneo
+        - DAP
+        - IPA
+        - NEDA
+        - PIDS
+        - PSA
+        - UPLB
+        - UPSE
+        - World Bank Manila
+    International Research Institutes
+        - DJAL
+        - Northwestern University
+        - NYU
+        - Oxford University
+        - UCLA
+        - SMU
+        - University of Southempton
+
+Things to note
+    - Wifi
+    - Restrooms
+    - Expectations
+    - Questions
+
+Use Case Roadmap (ANS Emily Pagador)
+    - Use Case Development and Management Service Functions
+    - Use Case Development and Management Service Goals
+    - Target Relying Parties
+        - 1765 Government Agencies
+        - 268,918 Private Establishments
+        - 29,421 Financial Institutions
+    - Use Case Development and Management Service 2022 - 2025 Roadmap
+        - 2022 Onboard Systems and applications from priority use cases
+        - 2023 Expansion of integration and gradual synchronization of government databases
+        - 2023 Onboarding of Systems and applications of Relying Parties and Pilot of CRS
+        - 2024 Piloting Sectoral Tokens and Token Matching
+        - 2025 Interoperability of ecosystem and trust service provider accreditation
+    - Use Case Development and Management Service Strategies
+    - National ID Ecosystem
+    - Use Case Development Achievements (Where are we now?)
+    - Moving Forward
+    - Selecting criterias
+    - What is the timeline for sectoral token rollout?
+
+National ID Progress (ANS Marela Lovely Andres)
+    - Benefits of PhilSys
+    - PhilSys Policy and Coordination Council
+    - PhilSys Components
+    - Philippine Indentification ID Formats of Credentials
+    - Organization Structure of PhilSys Registry Office
+    - PhilSys Registration Process
+    - PhilSys Implementation and Roll-out
+    - Registration Status
+    - PhilSys Oerations Updates
+
+About e-Government, Digital National ID, and e-Verify (Usec David Almirol Jr.)
+    - Message from President Ferdinand Marcos Jr.
+    - Current Challenges in Government Services
+    - Process Simplification and eGovernment Implementation
+    - DICT 5 eGovernment Pillars
+        - eGovernment System and Platforms
+        - National Government Digitalization
+        - Local Government Digitalization
+        - Government Cloud and Data Centers
+        - Information Systems Strategic Plan
+    - Whole-Of-Government Approach
+    - eGovernment Milestones
+    - eGovernment Platforms
+    - eGovernment Data Exchange Platform (eGovDX)
+    - eGovernment Cloud
+    - eGovernment Chain (Philippine Government Blockchain)
+    - electronic local government system
+    - eGov AI
+    - Digital National ID
+        - Digital National ID Use Cases
+    - National ID eVerify
+
+Group Photo
+
+Lunch Break
+
+Introduction to NID.Lab (Julia Clark (Senior Economist, World Bank ID4D), Sylvan Herskowitz (Economist, World Bank DIME))
+    - ID4D (Identification for Development)
+    - ID4D Research, Goals and Focus Areas
+    - DIME (Development Impact Evaluation)
+    - NID.Lab
+        - Partnership and Research community to accelerate evidence-building and data collection around the Philippines' National ID
+        - National ID (PSA and DICT), Partners (RPs, World Bank, Donors and Partners), and Researchers
+    - Building on PSA-WB collaboration
+    - NID.Lab Common Challenges and Solutions
+        - Incentives, resources, and partnerships => Building a community to support and execute research, economize on data collection
+        - Timing and design => Convene Early before RPs utilize the ID for the whole population
+        - Randomized Controlled Trials (RCT) => Multi-method approach to Impact Evaluation and other researches
+    - NID.Lab Roles
+        - NID and Relying Parties
+        - Researchers
+        - World Bank and Partners
+    - NID.Lab Benefits
+        - Useful for policy makers and service providers in the Philippines and other countries
+        - Scaling services in other sectors
+    - Academic Research community
+        - Inviting all Filipino and International Researchers to have a unique perspective on National ID and it's use caes.
+        - Impactful Researches and policy-relevant evaluations
+            - How can your work help NID stakeholders, the PRO, and the Philippines?
+
+Lightning Round Literature Review
+    - Time and Motion Study of PHilSys Time/Cost Savings (Claire Casher)
+        - Definition: Systematic Observation, analysis, and measurement of the separate steps in the performance of a specific job.
+            - Map status quo process
+            - Collect Observations
+            - Model "to-be" process
+            - Calculate savings
+        - Scope
+            - Financial
+                - Account opening
+            - Local government
+                - Business Permits, Marriage Licenses, and Recognitions
+            - Social Protection
+                - Relief Payment
+        - Time and Motion results
+            - Municipality
+            - Banks
+            - Social Protection Programs
+    - Financial Inclusion for the newly-banked (IPA)
+        - Innovations for Poverty Action (IPA) Introduction and Roles
+            - IPA Philippines
+        - Enhancing financial inclusion impacts for the newly banked
+            - Phone survey
+            - Key results
+        - Digital Payment of Cash Transfers
+        - Opportunity to measure long-run effects of digital ID
+    - National ID Studies in the Philippines (Jose Gloria UCLA)
+        - Overview of Current Projects
+        - Village Profile Surveys
+        - Firm Level Surveys
+        - Application for National ID - Baseline
+        - Receipt for National ID - Baseline
+        - Usage for National ID - Baseline
+        - Awareness for National ID - Baseline
+        - Application for National ID - Midline
+        - Receipt for National ID - Midline
+        - Usage for National ID - Midline
+        - Perceived Government Uses for National ID
+        - Comprehensive Insights
+        - Overview of ASEAN Multi-Nation Firm Survey
+        - Future Research Directions
+    - Ongoing research activities (Maria Celeste Balanza)
+        - MED Activities
+            - Philsys Reports
+            - Process Evaluation
+            - Rider Surveys
+            - Integrated Dashboard
+            - M&E Framework
+            - Risk Management Toolkit
+            - Budget Monitoring
+
+Use Case Overview (Abigail Ling)
+    - Definition of Terms
+        - Authentication
+        - National ID Authentication
+    - National ID Number / PhilSys Number (PSN)
+    - Definition of Terms (cont.)
+        - Registered Person
+        - Relying Party
+        - Use Case
+    - National ID Authentication Services
+        - Offline (PhilSys Check, Covert Features of the National ID Card)
+        - Online (Basic and eKYC Authentication)
+    - Onboarding process via National ID eVerify
+    - National ID onboarding process
+    - Onboarding requirements
+    
+Status of Relying Party Onboarding (Mitz Montañez)
+    - DICT Systems Integrated with the National ID
+        - Relying Parties utilizing the National ID
+        - Relying Parties with ongoing Technical integration (Public and Private Sector)
+    - Potential Areas for Research
+
+Q&A (Claire Casher)
+    - General Questions
+    - Technical Questions
+    - National ID related Questions
