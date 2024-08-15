@@ -1,6 +1,6 @@
 import time, requests
 
-def test_api(endpoint, loop = False):
+def test_api(endpoint, loop):
     response = requests.get(f"{endpoint}/api/get_authorization")
 
     authorization = ""
@@ -42,7 +42,4 @@ def test_api(endpoint, loop = False):
 
 input = input("Is the Authentication API having a loop (Y/N)? ")
 
-if input == "y" or input == "Y":
-    test_api("http://localhost", True)
-
-test_api("http://localhost")
+test_api("http://localhost", True if input == "y" or input == "Y" else False)
